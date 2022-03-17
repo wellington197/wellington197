@@ -5,8 +5,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wellington197&label=Profile%20views&color=0e75b6&style=flat" alt="wellington197" /> </p>
 
 
-<p align="left">Sou formado em analise e desenvolvimento de sistemas, atualmente buscando conhecimento com ênfase em Frontend, Mobile e DevOps, QA e Containers Docker.</p>
-<p align="left">🌱 Tenho estudado sobre FrontEnd, JavaScript e entrega contínua, Github Actions e docker containers</p>
+<p align="left">Sou formado em analise e desenvolvimento de sistemas, atualmente buscando conhecimento com ênfase em Frontend, Mobile</p>
+<p align="left">🌱 Tenho estudado sobre FrontEnd, JavaScript, React</p>
 <p align="left">🤔 Posso colaborar com conhecimentos sobre programação Frontend</p>
 <p align="left">🌱 No tempo livre gosto de Esportes, Filmes e Séries</p>
 
@@ -23,6 +23,7 @@
 <div>
   <a href="https://github.com/wellington197"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=wellington197&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington197&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
