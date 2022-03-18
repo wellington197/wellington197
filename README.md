@@ -5,8 +5,8 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wellington197&label=Profile%20views&color=0e75b6&style=flat" alt="wellington197" /> </p>
 
 
-<p align="left">Sou formado em analise e desenvolvimento de sistemas, atualmente buscando conhecimento com ênfase em Frontend, Mobile e DevOps, QA e Containers Docker.</p>
-<p align="left">🌱 Tenho estudado sobre FrontEnd, JavaScript e entrega contínua, Github Actions e docker containers</p>
+<p align="left">Sou formado em analise e desenvolvimento de sistemas, atualmente buscando conhecimento com ênfase em Frontend, Mobile</p>
+<p align="left">🌱 Tenho estudado sobre FrontEnd, JavaScript, React</p>
 <p align="left">🤔 Posso colaborar com conhecimentos sobre programação Frontend</p>
 <p align="left">🌱 No tempo livre gosto de Esportes, Filmes e Séries</p>
 
@@ -23,6 +23,7 @@
 <div>
   <a href="https://github.com/wellington197"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=wellington197&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington197&layout=compact&langs_count=7&theme=radical"/>
 </div>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 
@@ -33,10 +34,5 @@
  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-</a> 
-<a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
-<a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 
 
