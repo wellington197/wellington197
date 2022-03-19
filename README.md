@@ -13,7 +13,8 @@
 - 🌱 In my free time I like Sports, Movies and Series;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: fcowellcosta@gmail.com;
-- 📝[Resume](https://github.com/wellington197/wellington197/blob/main/assets/resume/Francisco%20wellington%20costa%20-%202022.pdf) PDF
+- 📝My [Resume](https://github.com/wellington197/wellington197/blob/main/assets/resume/Francisco%20wellington%20costa%20-%202022.pdf) PDF
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
