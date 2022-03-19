@@ -1,18 +1,34 @@
 
 <h1 align="center">Hi, I'm Wellington Costa</h1>
-<h3 align="center">Seja bem vindo ao meu Github 👋</h3>
+<h3 align="center">Welcome to my Github 👋</h3></br>
+
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wellington197&label=Profile%20views&color=0e75b6&style=flat" alt="wellington197" /> </p>
 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="250" height="250" style="max-width: 100%;border-radius: 50%">
+<p align="left">Graduated in systems analysis and development, good knowledge of web development in HTML 5, CSS3, JavaScript and React, MySQL, Scrum.</p>
 
-<p align="left">Sou formado em analise e desenvolvimento de sistemas, atualmente buscando conhecimento com ênfase em Frontend, Mobile</p>
-<p align="left">🌱 Tenho estudado sobre FrontEnd, JavaScript, React</p>
-<p align="left">🤔 Posso colaborar com conhecimentos sobre programação Frontend</p>
-<p align="left">🌱 No tempo livre gosto de Esportes, Filmes e Séries</p>
+- 👨🏽‍💻 I’m currently working on [Ronix](https://github.com/Adarshreddyash/ronix-frontend);
+- 🌱 I’m currently learning GraphQL ,typescript and Kubernetes; 
+- 👯 I’m looking to collaborate on [Ronix](https://github.com/Adarshreddyash/ronix-frontend) 🤝;
+- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 💬 Ask me about anything, I am happy to help;
+- ⚡️ Vengixlabs:My future Project which helps in R&D for companies. 
+- 📫 How to reach me: adarshreddy9849@gmail.com;
+- 📝[Resume](https://adarshreddyash.me/assets/Adarshreddy's%20Resume.pdf) PDF
+
+👨‍💻 Tenho estudado sobre FrontEnd, JavaScript, React
+🚀 Posso colaborar com conhecimentos sobre programação Frontend
+
+🌱 No tempo livre gosto de Esportes, Filmes e Séries
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
+
+
+
 
 <a href="https://www.linkedin.com/in/wellington197" target="blank">
        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"   alt="https://www.linkedin.com/in/wellington197" height="30" width="40" />
@@ -23,8 +39,8 @@
 <div>
   <a href="https://github.com/wellington197"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=wellington197&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington197&layout=compact&langs_count=7&theme=radical"/>
 </div>
-
-<h3 align="left">Languages and Tools:</h3>
+</br>
+<h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left"> 
 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
