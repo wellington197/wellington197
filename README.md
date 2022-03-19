@@ -1,33 +1,22 @@
 
 <h1 align="center">Hi, I'm Wellington Costa</h1>
-<h3 align="center">Welcome to my Github 👋</h3></br>
-
+<h3 align="center">Welcome to my Github 👋</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wellington197&label=Profile%20views&color=0e75b6&style=flat" alt="wellington197" /> </p>
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="250" height="250" style="max-width: 100%;border-radius: 50%">
-<p align="left">Graduated in systems analysis and development, good knowledge of web development in HTML 5, CSS3, JavaScript and React, MySQL, Scrum.</p>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="250" height="250" style="max-width: 100%; border-radius: 50%">
+<p align="left">Graduated in systems analysis and development, good knowledge of web development in HTML 5, CSS3, JavaScript and React, MySQL.</p>
 
-- 👨🏽‍💻 I’m currently working on [Ronix](https://github.com/Adarshreddyash/ronix-frontend);
-- 🌱 I’m currently learning GraphQL ,typescript and Kubernetes; 
-- 👯 I’m looking to collaborate on [Ronix](https://github.com/Adarshreddyash/ronix-frontend) 🤝;
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭;
+- 👨🏽‍💻 Currently seeking knowledge about Fullstack development;
+- 👨‍💻 I've been studying FrontEnd, JavaScript, React;
+- 🚀 I can collaborate with knowledge about Frontend programming;
+- 🌱 In my free time I like Sports, Movies and Series;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Vengixlabs:My future Project which helps in R&D for companies. 
-- 📫 How to reach me: adarshreddy9849@gmail.com;
-- 📝[Resume](https://adarshreddyash.me/assets/Adarshreddy's%20Resume.pdf) PDF
-
-👨‍💻 Tenho estudado sobre FrontEnd, JavaScript, React
-🚀 Posso colaborar com conhecimentos sobre programação Frontend
-
-🌱 No tempo livre gosto de Esportes, Filmes e Séries
-
+- 📫 How to reach me: fcowellcosta@gmail.com;
+- 📝[Resume](https://github.com/wellington197/wellington197/blob/main/assets/resume/Francisco%20wellington%20costa%20-%202022.pdf) PDF
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-
-
 
 
 <a href="https://www.linkedin.com/in/wellington197" target="blank">
