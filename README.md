@@ -18,12 +18,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-
 <a href="https://www.linkedin.com/in/wellington197" target="blank">
        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"   alt="https://www.linkedin.com/in/wellington197" height="30" width="40" />
-</a>
-<a href="https://twitter.com/wellington_197" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wellington_197" height="30" width="40" /></a>
-<p align="left">
+</a></br></br>
+
 
 <div>
   <a href="https://github.com/wellington197"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=wellington197&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington197&layout=compact&langs_count=7&theme=radical"/>
