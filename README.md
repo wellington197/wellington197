@@ -4,6 +4,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wellington197&label=Profile%20views&color=0e75b6&style=flat" alt="wellington197" /></p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="200" height="200" style="border-radius: 50%">
+
+
 <p align="left">Graduated in systems analysis and development, good knowledge of web development in HTML 5, CSS3, JavaScript and React, MySQL.</p>
 
 - 👨🏽‍💻 Currently seeking knowledge about Fullstack development;
