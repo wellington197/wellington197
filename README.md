@@ -19,8 +19,15 @@ FrontEnd, JavaScript.
 <a href = "fco.learning@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/wellington197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </br></br>
-<div>
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wellington_197&show_icons=true&theme=radical)
+<div> 
+<br>
+<div align="center" width="100%">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=wellington197&theme=dracula" alt="wellington197" />
+  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=wellington197&show_icons=true&locale=en&layout=compact&theme=dracula" alt="wellington197" />  
+  <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wellington197&show_icons=true&locale=en&theme=dracula" alt="wellington197" />
+</div>
+
+<br>
 </div>
 </br>
 <h3 align="left">🛠️ Languages and Tools:</h3>
