@@ -22,11 +22,11 @@ FrontEnd, JavaScript.
 <div> 
 <br>
 <div align="center" width="100%">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=wellington197&theme=dracula" alt="wellington197" />
-  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=wellington197&show_icons=true&locale=en&layout=compact&theme=dracula" alt="wellington197" />  
-  <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wellington197&show_icons=true&locale=en&theme=dracula" alt="wellington197" />
+  <img width="70%" src="https://streak-stats.demolab.com/?user=wellington197&theme=chartreuse-dark&hide_border=true" alt="wellington197" />
+  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=wellington197&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="wellington197" />  
+  <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wellington197&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="wellington197" />
 </div>
-
+  
 <br>
 </div>
 </br>
