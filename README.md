@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi, I'm Wellington Costa</h1>
 <h3 align="center">Welcome to my Github 👋</h3>
 
@@ -18,10 +17,17 @@ FrontEnd, JavaScript.
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href = "fco.learning@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/wellington_197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/wellington197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </br></br>
-<div>
-  <a href="https://github.com/wellington197"><img height="170em" src="https://github-readme-stats.vercel.app/api?username=wellington197&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/><img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wellington197&layout=compact&langs_count=7&theme=radical"/>
+<div> 
+<br>
+<div align="center" width="100%">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=wellington197&theme=chartreuse-dark&hide_border=true" alt="wellington197" />
+  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=wellington197&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="wellington197" />  
+  <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wellington197&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="wellington197" />
+</div>
+  
+<br>
 </div>
 </br>
 <h3 align="left">🛠️ Languages and Tools:</h3>
@@ -51,5 +57,4 @@ FrontEnd, JavaScript.
 
 
           
-          
-
+      
