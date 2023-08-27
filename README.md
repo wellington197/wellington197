@@ -13,7 +13,7 @@ As a QA analyst, I can work with test strategies, automated tests, and E2E tests
 - 🤔 I'm looking for help with test automation.
 - 💬 Ask me about software testing.
 - ⚡ Curiosity: I like Sports, Movies, and Series;
-- 📝My [Resume](https://1drv.ms/w/s!AkausQumNj7-gpUWPBfQMmbAemQMtw?e=uS9ymJ) PDF
+- 📝My [Resume](https://1drv.ms/b/s!AkausQumNj7-gplW05WfDpQKKCu5XQ?e=qU7PWe) PDF
 
 
 <h3 align="left">Connect with me:</h3>
