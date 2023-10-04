@@ -3,9 +3,23 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wellington197&label=Profile%20views&color=0e75b6&style=flat" alt="wellington197" /></p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="200" height="200" style="border-radius: 50%">
-<p align="left">Graduated in systems analysis and development, and currently specializing in Software Testing. With good knowledge in web development and software testing.
+<p align="left">Hello! I'm Wellington! Great pleasure.
+ 
+I am a graduate in Software Development and Engineering, Software Testing, and User Experience.
 
-As a QA analyst, I can work with test strategies, automated tests, and E2E tests. API testing with Postman and performance testing with JMeter.
+Professional in the QA area, with experience in planning, creating, executing, and documenting Test Plans and Cases. Functional and Non-Functional Tests of the application, in addition to requirements analysis and acceptance criteria.
+
+My Soft Skills include being collaborative, communicative, determined, teamwork, and Commitment.
+
+As for my technical skills for software testing, I have experience in manual and automated API testing with Postman and Newman, SWAGGER, performance testing with Jmeter, as well as knowledge in web and mobile test automation using Selenium tools with Junit, Appium, and Cypress.
+
+For development skills in Java, Javascript, SQL database knowledge, WordPress, Node, HTML5, and CSS3.
+
+As for CI/CD skills I use tools like Azure Pipeline, Jenkins, GitLab, Azure Test Plan, Git Actions, Github, and Docker.
+
+I also know agile methodologies such as Scrum, Kanban, and XP, and project management tools such as AzureDevOps, Jira, Trello.
+
+I have some relevant certifications including Scrum (SFPC), Kanban (KEPC), DevOps(DEPCP), Gitlab, and LGPD(LGPDF).
 
 - 👨🏽‍💻 I am currently working as a QA Tester.
 - 📚 I'm currently learning about software testing and test automation, as well as API and Performance testing.
@@ -49,8 +63,8 @@ As a QA analyst, I can work with test strategies, automated tests, and E2E tests
 <h3 align="left">Testing Tools:</h3>  
 </a> <img alt="selenium" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">
 </a> <img alt="cypress" height="40" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
-</a>  <img alt="postman" height="40" width="40" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
 </a> <img alt="appium" height="40" width="40" src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text-thumbnail.png">
+</a>  <img alt="postman" height="40" width="40" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
 </a> <img alt="Cucumber" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg"/>
 </a> <img alt="insomnia" height="40" width="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
 </a> <img alt="Jasmine" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg">
