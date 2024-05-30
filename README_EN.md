@@ -1,25 +1,25 @@
-<h1 align="center">Olá, seja bem vindo ao meu perfil!</h1>
-<h3 align="center">Sou Wellington! Muito prazer 👋</h3>
+<h1 align="center">Hi, I'm Wellington Costa</h1>
+<h3 align="center">Welcome to my Github 👋</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wellington197&label=Profile%20views&color=0e75b6&style=flat" alt="wellington197" /></p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="200" height="200" style="border-radius: 50%">
 <p align="left">Hello! I'm Wellington! Great pleasure.
  
-Profissional da área de QA, com experiência em planejamento, criação, execução e documentação de Planos e Casos de Testes. Testes Funcionais e Não-Funcionais da aplicação, além de análise de requisitos e critérios de aceitação.
+I am a graduate in Software Development and Engineering, Software Testing, and User Experience.
 
-Formado em análise e desenvolvimento de Sistemas e pós-graduação em Desenvolvimento, Engenharia de Software - ênfase em Qualidade e Testes e UX.
+Professional in the QA area, with experience in planning, creating, executing, and documenting Test Plans and Cases. Functional and Non-Functional Tests of the application, in addition to requirements analysis and acceptance criteria.
 
-As minhas Soft Skills incluem ser colaborativo, comunicativo, determinado, trabalho em equipa e Compromisso.
+My Soft Skills include being collaborative, communicative, determined, teamwork, and Commitment.
 
-Quanto às minhas competências técnicas para testes de software, tenho experiência em testes manuais e automatizados de APIs com Postman e Newman, SWAGGER, testes de performance com Jmeter, além de conhecimentos em automação de testes web e mobile utilizando ferramentas Selenium com Junit, Appium e Cypress.
+As for my technical skills for software testing, I have experience in manual and automated API testing with Postman and Newman, SWAGGER, performance testing with Jmeter, as well as knowledge in web and mobile test automation using Selenium tools with Junit, Appium, and Cypress.
 
-Para o desenvolvimento, tenho conhecimentos em Java, Javascript, base de dados SQL, WordPress, Node, HTML5 e CSS3.
+For development skills in Java, Javascript, SQL database knowledge, WordPress, Node, HTML5, and CSS3.
 
-Quanto a habilidades de CI/CD utilizo ferramentas como Azure Pipeline, Jenkins, GitLab, Azure Test Plan, Git Actions, Github e Docker.
+As for CI/CD skills I use tools like Azure Pipeline, Jenkins, GitLab, Azure Test Plan, Git Actions, Github, and Docker.
 
-Também conheço metodologias ágeis como Scrum, Kanban e XP, e ferramentas de gestão de projectos como AzureDevOps, Jira, Trello.
+I also know agile methodologies such as Scrum, Kanban, and XP, and project management tools such as AzureDevOps, Jira, Trello.
 
-Tenho certificações relevantes, incluindo Postman API, Scrum (SFPC), Kanban (KEPC), DevOps (DEPCP), Gitlab e LGPD (LGPDF).
+I have some relevant certifications including Scrum (SFPC), Kanban (KEPC), DevOps(DEPCP), Gitlab, and LGPD(LGPDF).
 
 - 👨🏽‍💻 I am currently working as a QA Tester.
 - 📚 I'm currently learning about software testing and test automation, as well as API and Performance testing.
@@ -27,7 +27,7 @@ Tenho certificações relevantes, incluindo Postman API, Scrum (SFPC), Kanban (K
 - 🤔 I'm looking for help with test automation.
 - 💬 Ask me about software testing.
 - ⚡ Curiosity: I like Sports, Movies, and Series;
-- 📝My [Currículo](https://1drv.ms/b/s!AkausQumNj7-gsAGeI14e9rW0pCYqA?e=C8sCxL) em PDF
+- 📝My [Resume](https://1drv.ms/b/s!AkausQumNj7-gplW05WfDpQKKCu5XQ?e=qU7PWe) PDF
 
 
 <h3 align="left">Connect with me:</h3>
