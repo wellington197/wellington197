@@ -36,22 +36,27 @@ Tenho certificações relevantes, incluindo Postman API, Scrum (SFPC), Kanban (K
 
   <div id="certificacao" align="left" width="100%">
         <h3 align="left">Certificações:</h3>
-        <a href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download" target="_blank">
-            <img align="center" alt="scrum" height="60" width="60" src="./images/scrum.png" title="Scrum Certification">
+        <a href="https://badgr.com/backpack/badges/65e8b3cbd7aee57fed768d04" target="_blank">
+            <img align="center" alt="scrum" height="60" width="60" src="./images/ASTFC.png" title="Qualidade de Software">
         </a>
-        <a href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download" target="_blank">
-            <img align="center" alt="devops" height="60" width="60" src="./images/devops.png" title="DevOps Certification">
-        </a>
-        <a href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download" target="_blank">
-            <img align="center" alt="lgpd" height="60" width="60" src="./images/lgpd.png" title="LGPD Certification">
+        <a href="https://badgr.com/public/assertions/92sBog67SXS4uFdxzG9TaA" target="_blank">
+            <img align="center" alt="postman" height="60" width="60" src="./images/postman.png" title="Postman Certification">
         </a>
         <a href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download" target="_blank">
             <img align="center" alt="gitlab" height="60" width="60" src="./images/gitlab.png" title="GitLab Certification">
         </a>
-        <a href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download" target="_blank">
-            <img align="center" alt="postman" height="60" width="60" src="./images/postman.png" title="Postman Certification">
+        <a href="" target="_blank">
+            <img align="center" alt="devops" height="60" width="60" src="./images/devops.png" title="DevOps Certification">
         </a>
-        <a href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download" target="_blank">
+        <a href="https://www.credly.com/badges/bedfd879-e274-4598-952d-ea609515ed0c" target="_blank">
+            <img align="center" alt="scrum" height="60" width="60" src="./images/scrum.png" title="Scrum Certification">
+        </a>
+        <a href="https://www.credly.com/badges/213a6fa0-5a29-4c30-b356-b1a1456f9e36" target="_blank">
+            <img align="center" alt="kanban" height="60" width="60" src="./images/kanban.png" title="Kanban Essentials">
+        </a>
+        <a href="https://www.credly.com/badges/6886ad6e-587c-42c7-b768-4987e79f8315" target="_blank">
+            <img align="center" alt="lgpd" height="60" width="60" src="./images/lgpd.png" title="LGPD Certification">
+        <a href="https://www.credly.com/badges/d89679fa-d467-4975-bf28-82a4934fa63e" target="_blank">
             <img align="center" alt="remotetowork" height="60" width="60" src="./images/remote.png" title="Remote Work Certification">
         </a>
     </div>
