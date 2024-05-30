@@ -2,10 +2,10 @@
 <h3 align="center">Sou Wellington! Muito prazer 👋</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wellington197&label=Profile%20views&color=0e75b6&style=flat" alt="wellington197" /></p>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="200" height="200" style="border-radius: 50%">
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="200" height="200" style="border-radius: 50%;">
 <p align="left">
  
-Profissional da área de QA, com experiência em planejamento, criação, execução e documentação de Planos e Casos de Testes. Testes Funcionais e Não-Funcionais da aplicação, além de análise de requisitos e critérios de aceitação.
+Profissional da área de QA, com conhecimetos na área de testes de software
 
 Formado em análise e desenvolvimento de Sistemas e pós-graduação em Desenvolvimento, Engenharia de Software - ênfase em Qualidade e Testes e UX.
 
@@ -35,16 +35,28 @@ Tenho certificações relevantes, incluindo Postman API, Scrum (SFPC), Kanban (K
 <a href = "https://medium.com/@fco.learning"><img height="30" width="130" src="https://miro.medium.com/max/4488/1*Ra88BZ-CSTovFS2ZSURBgg.png" target="_blank"></a>
 
   <div id="certificacao" align="left" width="100%">
-        <h3 align="left">Certificações</h3>
-        <img align="center" alt="scrum" height="60" width="60" src="./images/scrum.png" href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download">
-        <img align="center" alt="devops" height="60" width="60" src="./images/devops.png" href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download">
-        <img align="center" alt="lgpd" height="60" width="60" src="./images/lgpd.png" href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download">
-        <img align="center" alt="gitlab" height="60" width="60" src="./images/gitlab.png" href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download">
-        <img align="center" alt="postman" height="60" width="60" src="./images/postman.png" href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download">
-        <img align="center" alt="remotetowork" height="60" width="60" src="./images/remote.png" href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download">
-    </div>  
+        <h3 align="left">Certificações:</h3>
+        <a href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download" target="_blank">
+            <img align="center" alt="scrum" height="60" width="60" src="./images/scrum.png" title="Scrum Certification">
+        </a>
+        <a href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download" target="_blank">
+            <img align="center" alt="devops" height="60" width="60" src="./images/devops.png" title="DevOps Certification">
+        </a>
+        <a href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download" target="_blank">
+            <img align="center" alt="lgpd" height="60" width="60" src="./images/lgpd.png" title="LGPD Certification">
+        </a>
+        <a href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download" target="_blank">
+            <img align="center" alt="gitlab" height="60" width="60" src="./images/gitlab.png" title="GitLab Certification">
+        </a>
+        <a href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download" target="_blank">
+            <img align="center" alt="postman" height="60" width="60" src="./images/postman.png" title="Postman Certification">
+        </a>
+        <a href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download" target="_blank">
+            <img align="center" alt="remotetowork" height="60" width="60" src="./images/remote.png" title="Remote Work Certification">
+        </a>
+    </div>
   <div id="aprendizado" align="left" width="100%">
-        <h3 align="left">Estou aprendendo sobre</h3>
+        <h3 align="left">Estou aprendendo sobre:</h3>
         <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
         <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
         <img align="center" alt="SASS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
@@ -88,10 +100,13 @@ Tenho certificações relevantes, incluindo Postman API, Scrum (SFPC), Kanban (K
 
 
 <style>
-        #aprendizado img, #ferramentas img {
+        #aprendizado img, #ferramentas img, #certificacao img {
             background-color: #2F4F4F; /* Cor grafite */
             border-radius: 10px; /* Bordas arredondadas */
             padding: 5px; /* Espaço entre a borda e a imagem */
             margin-bottom:5px;
         }
-    </style>
+        #certificacao a {
+            text-decoration: none; /* Remove sublinhado dos links */
+        }
+ </style>
