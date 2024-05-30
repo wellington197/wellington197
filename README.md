@@ -4,29 +4,22 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wellington197&label=Profile%20views&color=0e75b6&style=flat" alt="wellington197" /></p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="200" height="200" style="border-radius: 50%;">
 <p align="left">
+
+
+👨🏽‍💻 Analista de Testes e Qualidade de Software | QA.
+
+🎓 Pós-graduado em Desenvolvimento, Engenharia de Software com ênfase em Qualidade e Testes e UX.
+
+📚 Estudando sobre automação de testes web, mobile, API e devops.
+
+💬 Tenho interesse sobre testes de software, devops e programação de software.
+
+⭐ Sempre em evolução para entrega de softwares com qualidade.
+
+🤔 Curiosidades sobre mim: Gosto de futebol, Filmes e Séries;
+
+📝 Meu [Currículo](https://1drv.ms/b/s!AkausQumNj7-gsAGeI14e9rW0pCYqA?e=C8sCxL) em PDF
  
-Profissional da área de QA, com conhecimetos na área de testes de software
-
-Formado em análise e desenvolvimento de Sistemas e pós-graduação em Desenvolvimento, Engenharia de Software - ênfase em Qualidade e Testes e UX.
-
-As minhas Soft Skills incluem ser colaborativo, comunicativo, determinado, trabalho em equipa e Compromisso.
-
-Quanto às minhas competências técnicas para testes de software, tenho experiência em testes manuais e automatizados de APIs com Postman e Newman, SWAGGER, testes de performance com Jmeter, além de conhecimentos em automação de testes web e mobile utilizando ferramentas Selenium com Junit, Appium e Cypress.
-
-Para o desenvolvimento, tenho conhecimentos em Java, Javascript, base de dados SQL, WordPress, Node, HTML5 e CSS3.
-
-Quanto a habilidades de CI/CD utilizo ferramentas como Azure Pipeline, Jenkins, GitLab, Azure Test Plan, Git Actions, Github e Docker.
-
-Também conheço metodologias ágeis como Scrum, Kanban e XP, e ferramentas de gestão de projectos como AzureDevOps, Jira, Trello.
-
-Tenho certificações relevantes, incluindo Postman API, Scrum (SFPC), Kanban (KEPC), DevOps (DEPCP), Gitlab e LGPD (LGPDF).
-
-- 👨🏽‍💻 Atualmente trabalhando como QA Tester.
-- 📚 Me desenvolvendo em testes de software e automação de testes, bem como testes de API e Performance.
-- 💬 Pergunte-me sobre testes de software.
-- 🤔 Curiosidade: Gosto de Desporto, Filmes e Séries;
-- 📝 Meu [Currículo](https://1drv.ms/b/s!AkausQumNj7-gsAGeI14e9rW0pCYqA?e=C8sCxL) em PDF
-
 
 <h3 align="left">Como me contactar</h3>
 <p align="left">
@@ -104,14 +97,3 @@ Tenho certificações relevantes, incluindo Postman API, Scrum (SFPC), Kanban (K
 </div>
 
 
-<style>
-        #aprendizado img, #ferramentas img, #certificacao img {
-            background-color: #2F4F4F; /* Cor grafite */
-            border-radius: 10px; /* Bordas arredondadas */
-            padding: 5px; /* Espaço entre a borda e a imagem */
-            margin-bottom:5px;
-        }
-        #certificacao a {
-            text-decoration: none; /* Remove sublinhado dos links */
-        }
- </style>
