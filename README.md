@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wellington197&label=Profile%20views&color=0e75b6&style=flat" alt="wellington197" /></p>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="200" height="200" style="border-radius: 50%">
-<p align="left">Hello! I'm Wellington! Great pleasure.
+<p align="left">
  
 Profissional da área de QA, com experiência em planejamento, criação, execução e documentação de Planos e Casos de Testes. Testes Funcionais e Não-Funcionais da aplicação, além de análise de requisitos e critérios de aceitação.
 
@@ -21,64 +21,77 @@ Também conheço metodologias ágeis como Scrum, Kanban e XP, e ferramentas de g
 
 Tenho certificações relevantes, incluindo Postman API, Scrum (SFPC), Kanban (KEPC), DevOps (DEPCP), Gitlab e LGPD (LGPDF).
 
-- 👨🏽‍💻 I am currently working as a QA Tester.
-- 📚 I'm currently learning about software testing and test automation, as well as API and Performance testing.
-- 👯 I'm looking to collaborate with the software testing world.
-- 🤔 I'm looking for help with test automation.
-- 💬 Ask me about software testing.
-- ⚡ Curiosity: I like Sports, Movies, and Series;
-- 📝My [Currículo](https://1drv.ms/b/s!AkausQumNj7-gsAGeI14e9rW0pCYqA?e=C8sCxL) em PDF
+- 👨🏽‍💻 Atualmente trabalhando como QA Tester.
+- 📚 Me desenvolvendo em testes de software e automação de testes, bem como testes de API e Performance.
+- 💬 Pergunte-me sobre testes de software.
+- 🤔 Curiosidade: Gosto de Desporto, Filmes e Séries;
+- 📝 Meu [Currículo](https://1drv.ms/b/s!AkausQumNj7-gsAGeI14e9rW0pCYqA?e=C8sCxL) em PDF
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Como me contactar</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/wellington197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href = "fco.learning@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://medium.com/@fco.learning"><img height="30" width="130" src="https://miro.medium.com/max/4488/1*Ra88BZ-CSTovFS2ZSURBgg.png" target="_blank"></a>
-</br></br>
-<div> 
+
+  <div id="certificacao" align="left" width="100%">
+        <h3 align="left">Certificações</h3>
+        <img align="center" alt="scrum" height="60" width="60" src="./images/scrum.png" href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download">
+        <img align="center" alt="devops" height="60" width="60" src="./images/devops.png" href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download">
+        <img align="center" alt="lgpd" height="60" width="60" src="./images/lgpd.png" href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download">
+        <img align="center" alt="gitlab" height="60" width="60" src="./images/gitlab.png" href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download">
+        <img align="center" alt="postman" height="60" width="60" src="./images/postman.png" href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download">
+        <img align="center" alt="remotetowork" height="60" width="60" src="./images/remote.png" href="https://badgr.com/public/assertions/c8qdhqIkRMisFM8GXSq2vw?action=download">
+    </div>  
+  <div id="aprendizado" align="left" width="100%">
+        <h3 align="left">Estou aprendendo sobre</h3>
+        <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+        <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
+        <img align="center" alt="SASS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+        <img align="center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+        <img align="center" alt="TS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+        <img align="center" alt="NODE" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+        <img align="center" alt="NPM" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
+        <img align="center" alt="Git" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+        <img align="center" alt="Java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+        <img align="center" alt="Mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+    </div>
+    <div id="ferramentas" align="left" width="100%">
+        <h3 align="left">Ferramentas que uso:</h3>  
+        <img align="center" alt="cypress" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg">
+        <img align="center" alt="selenium" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg">
+        <img align="center" alt="robot Framework" height="40" width="40" src="./images/robot-framework.png">
+        <img align="center" alt="Postman" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg">
+        <img align="center" alt="cucumber" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cucumber/cucumber-plain.svg">
+        <img align="center" alt="appium" height="40" width="40" src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text-thumbnail.png">
+        <img align="center" alt="vscode" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+        <img align="center" alt="android" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg">
+        <img align="center" alt="intelid" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
+        <img align="center" alt="Jenkins" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+        <img align="center" alt="Docker" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+        <img align="center" alt="linux" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+        <img align="center" alt="figma" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+        <img align="center" alt="wordpress" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+        <img align="center" alt="trello" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg">
+        <img align="center" alt="jira" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg">
+        <img align="center" alt="Azure Devops" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg">
+    </div>
+
 <br>
+<br>
+
 <div align="center" width="100%">
   <img width="70%" src="https://streak-stats.demolab.com/?user=wellington197&theme=chartreuse-dark&hide_border=true" alt="wellington197" />
   <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=wellington197&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="wellington197" />  
   <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wellington197&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="wellington197" />
 </div>
-  
-<br>
-</div>
-</br>
-
-<div align="left" width="100%">
-<h3 align="left">Languages and Tools:</h3>
-<img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-<img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/>
-<img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
-<img align="center" alt="nodejs" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
-</br>
-<h3 align="left">Testing Tools:</h3>  
-</a> <img alt="selenium" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png">
-</a> <img alt="cypress" height="40" width="40" src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg">
-</a> <img alt="appium" height="40" width="40" src="https://w7.pngwing.com/pngs/372/674/png-transparent-appium-test-automation-software-testing-selenium-calabash-purple-violet-text-thumbnail.png">
-</a>  <img alt="postman" height="40" width="40" src="https://www.svgrepo.com/download/354202/postman-icon.svg">
-</a> <img alt="Cucumber" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg"/>
-</a> <img alt="insomnia" height="40" width="40" src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png">
-</a> <img alt="Jasmine" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jasmine/jasmine-plain.svg">
-
-</br>
-<h3 align="left">Other knowledge</h3>  
-</a> <img alt="Figma" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>     
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/></a> <img alt="Wordpress" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg">
-
-</br>
-<h3 align="left">Project management</h3>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" alt="Jira" width="40" height="40"/>
-</div>
 
 
+<style>
+        #aprendizado img, #ferramentas img {
+            background-color: #2F4F4F; /* Cor grafite */
+            border-radius: 10px; /* Bordas arredondadas */
+            padding: 5px; /* Espaço entre a borda e a imagem */
+            margin-bottom:5px;
+        }
+    </style>
