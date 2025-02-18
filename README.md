@@ -18,17 +18,20 @@
 
 🤔 Curiosidades sobre mim: Gosto de futebol, Filmes e Séries;
 
-📝 Meu [Currículo](https://1drv.ms/b/s!AkausQumNj7-gsAGeI14e9rW0pCYqA?e=C8sCxL) em PDF
+📝 Meu [Currículo](https://1drv.ms/b/c/fe3e36a60bb1ae46/EQNreFH_xBRFjMFJZ9Od5hgBqaxS4lkFpd3XTNIoMzT7rg?e=WODk9e) em PDF
  
 
 <h3 align="left">Como me contactar</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/wellington197" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+<a href="https://www.linkedin.com/in/franciscowellingtoncosta/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 <a href = "fco.learning@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://medium.com/@fco.learning"><img height="30" width="130" src="https://miro.medium.com/max/4488/1*Ra88BZ-CSTovFS2ZSURBgg.png" target="_blank"></a>
 
   <div id="certificacao" align="left" width="100%">
         <h3 align="left">Certificações:</h3>
+        <a href="https://bstqb.qa/img/selos/s-ctal-tae.png" target="_blank">
+            <img align="center" alt="scrum" height="60" width="50" src="./images/ctfl.png" title="CTFL">
+        </a>
         <a href="https://badgr.com/backpack/badges/65e8b3cbd7aee57fed768d04" target="_blank">
             <img align="center" alt="scrum" height="60" width="60" src="./images/ASTFC.png" title="Qualidade de Software">
         </a>
