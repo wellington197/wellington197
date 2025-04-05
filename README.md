@@ -57,7 +57,7 @@
         </a>
     </div>
   <div id="aprendizado" align="left" width="100%">
-        <h3 align="left">Estou aprendendo sobre:</h3>
+        <h3 align="left">Meus Conhecimentos</h3>
         <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML">
         <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS"> 
         <img align="center" alt="JS" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="Javascript">
@@ -70,7 +70,7 @@
         <img align="center" alt="Mysql" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="Mysql">
     </div>
     <div id="ferramentas" align="left" width="100%">
-        <h3 align="left">Ferramentas que uso:</h3>  
+        <h3 align="left">Ferramentas e Tecnologias</h3>  
         <img align="center" alt="cypress" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" title="Cypress">
         <img align="center" alt="selenium" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" title="Selenium">
         <img align="center" alt="robot Framework" height="40" width="40" src="./images/robot-framework.png">
@@ -93,10 +93,11 @@
 <br>
 <br>
 
-<div align="center" width="100%">
-  <img width="70%" src="https://streak-stats.demolab.com/?user=wellington197&theme=chartreuse-dark&hide_border=true" alt="wellington197" />
-  <img width="41%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=wellington197&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="wellington197" />  
-  <img width="49%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wellington197&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="wellington197" />
+<div align="left" width="100%">
+  <!--<img width="70%" src="https://streak-stats.demolab.com/?user=wellington197&theme=chartreuse-dark&hide_border=true" alt="wellington197" /><br>-->
+  <img width="53%" padding="0" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wellington197&show_icons=true&locale=en&theme=chartreuse-dark&hide_border=true" alt="wellington197" />
+  <img width="40%"  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=wellington197&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&hide_border=true" alt="wellington197" />  
+  
 </div>
 
 
