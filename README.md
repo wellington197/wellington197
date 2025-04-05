@@ -18,7 +18,7 @@
 
 🤔 Curiosidades sobre mim: Gosto de futebol, Filmes e Séries;
 
-📝 Meu [Currículo](https://1drv.ms/b/c/fe3e36a60bb1ae46/EQNreFH_xBRFjMFJZ9Od5hgBqaxS4lkFpd3XTNIoMzT7rg?e=WODk9e) em PDF
+📝 Meu [Currículo](https://1drv.ms/b/c/fe3e36a60bb1ae46/EQNreFH_xBRFjMFJZ9Od5hgBASQC3XS8JFG0iXJ9gAu59A?e=TJFGDe) em PDF
  
 
 <h3 align="left">Como me contactar</h3>
