@@ -2,7 +2,7 @@
 <h3 align="center">Welcome to my Github 👋</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=wellington197&label=Profile%20views&color=0e75b6&style=flat" alt="wellington197" /></p>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="200" height="200" style="border-radius: 50%">
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="200" height="200" style="border-radius: 40%">
 <p align="left">Hello! I'm Wellington! Great pleasure.
  
 I am a graduate in Software Development and Engineering, Software Testing, and User Experience.
